@@ -1,0 +1,3 @@
+[submodule "Assets/Metaverse-Unity-Base"]
+	path = Assets/Metaverse-Unity-Base
+	url = https://github.com/gonzaloiv-telefonica/Metaverse-Unity-Base.git
